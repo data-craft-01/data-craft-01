@@ -1,7 +1,7 @@
 # 🙋‍♂️ About myself
 
 
-Hi All, I'm Tushar Saxena,Data Analyst with expertise in data cleansing, creating ETL pipelines, exploraroty data anaysis, data analysis and reporting, database design, and data modelling.
+Hi All, I'm working as a Data Analyst with skills in data cleansing, creating ETL pipelines, data modelling, exploraroty data anaysis, reporting, data analytics and predictive modeling.
 
 -	**Data Governance**: Data Sourcing, Data Quality Management (golden version of data), Self-Serve BI tools, Visualization.
 -	**Customer & Marketing Analytics**: Cross-selling, upsell, pre-sales analysis, Compete analysis, Product analysis, Campaign performance, Sales analysis, A/B & Multivariate Testing, Web Analytics, Attribution Modelling, LTV Analysis
